@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1", "name": "Asparagus", "clicked": false, "pic": "https://hips.hearstapps.com/del.h-cdn.co/assets/18/09/1519653347-delish-roasted-asparagus-1.jpg"
+    },
+    {
+        "id": "2", "name": "Apples", "clicked": false, "pic": "https://cdn1.medicalnewstoday.com/content/images/articles/267290-apples.jpg"
+    },
+    {
+        "id": "3", "name": "Oranges", "clicked": false, "pic": "https://i0.wp.com/www.healthfitnessrevolution.com/wp-content/uploads/2016/02/ThinkstockPhotos-494037394.jpg?zoom=2&resize=630%2C558"
+    },
+    {
+        "id": "4", "name": "Rhubarb", "clicked": false, "pic": "https://www.organicfacts.net/wp-content/uploads/2013/06/rhubarb.jpg"
+    },
+    {
+        "id": "5", "name": "Bananas", "clicked": false, "pic": "https://cdn1.medicalnewstoday.com/content/images/articles/271157-bananas.jpg"
+    }
+]
